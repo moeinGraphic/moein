@@ -1,8 +1,26 @@
-[
-  {
-    "1": "تست برنامه"
-  },
-  {
-    "1": "تست برنامه ۲"
-  }
-]
+{
+    "rss": {
+        "channel": {
+            "title": "Ajax and XUL",
+            "link": "http://www.xul.fr/en/",
+            "description": "XML graphical interface etc.",
+            "image": {
+                "url": "http://www.xul.fr/xul-icon.gif",
+                "link": "http://www.xul.fr/en/index.php"
+            },
+            "item": [
+                {
+                    "title": "News  of today",
+                    "link": "http://www.xul.fr/en-xml-rss.html",
+                    "description": "All you need to know about RSS"
+                },
+                {
+                    "title": "News of tomorrows",
+                    "link": "http://www.xul.fr/en-xml-rdf.html",
+                    "description": "And now, all about RDF"
+                }
+            ]
+        },
+        "_version": "2.0"
+    }
+}
